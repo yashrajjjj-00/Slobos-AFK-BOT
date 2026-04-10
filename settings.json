@@ -1,4 +1,4 @@
-{
+⅖{
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "builds6.aternos.me",
     "port": 29195,
     "version": "1.21.1"
   },
